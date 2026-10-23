@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - 2026-10-23
+
+- Security: the app now builds and runs on Node.js 22.23.4, the fixed release of the Node.js security update of October 21, 2026. `nixpacks.toml` pins the Nix package set to nixos-26.05 (`da6dc0e`), which carries 22.23.4; `.nvmrc` reads 22.23.4.
+- No migration and no setting changes.
+
 ## 1.0.0 — 2026-08-28
 
 Initial public release.

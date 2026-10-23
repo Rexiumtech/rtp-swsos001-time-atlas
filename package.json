@@ -1,6 +1,6 @@
 {
   "name": "global-time-atlas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bilingual, DST-aware timezone converter with live views for 956 major cities and 195 national capitals. Runs entirely in your browser.",
   "private": true,
   "engines": {
